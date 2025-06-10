@@ -1,0 +1,12 @@
+from termcolor import colored
+
+print(colored("          🎂  HAPPY BIRTHDAY  🎂", "magenta", attrs=["bold"]))
+print(colored("            SARAH ASYIFA RAHMA  ", "magenta", attrs=["bold"]))
+print(colored("                 *   *   *", "yellow"))
+print(colored("               __|__ |__ |__", "red"))
+print(colored("               |           |", "cyan"))
+print(colored("               |           |", "cyan", ))
+print(colored("               |           |", "cyan", ))
+print(colored("               |___________|", "cyan"))
+print(colored("              |_____________|", "green"))
+print(colored("             |_______________|", "green"))
